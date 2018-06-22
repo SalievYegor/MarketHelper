@@ -1,13 +1,7 @@
 package com.company.entity;
 
-import com.company.JsonRead;
-import com.fasterxml.jackson.core.JsonParseException;
-import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import java.io.IOException;
-import java.text.SimpleDateFormat;
-import java.util.Arrays;
 import java.util.Date;
 import java.util.LinkedList;
 import java.util.List;
@@ -26,8 +20,9 @@ public class Food extends Goods {
         return expirationDate;
     }
 
-    public void foodPring(){
-    foodList = super.getGoodsList("food");
+    @Override
+    public void print() {
+        foodList = super.getGoodsList("food");
         for (Goods food : foodList){
             System.out.println(getProductName() + " " + getFoodWeight() +
                     " " + getProductPrice() + " " + getExpirationDate() +
@@ -36,3 +31,4 @@ public class Food extends Goods {
         }
     }
 }
+

@@ -19,5 +19,8 @@ public class Clothes extends Goods {
     }
 
 
-
+    @Override
+    public void print() {
+        
+    }
 }

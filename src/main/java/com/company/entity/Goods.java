@@ -43,5 +43,6 @@ public abstract class Goods {
         }
         return goodsList;
     }
+    public abstract void print();
 
 }
