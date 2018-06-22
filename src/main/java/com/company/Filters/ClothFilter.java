@@ -1,6 +1,6 @@
-package main.java.com.company.Filters;
+package com.company.Filters;
 
-import main.java.com.company.Filters.IFilers.IClothFilter;
+import com.company.Filters.IFilers.IClothFilter;
 
 public class ClothFilter implements IClothFilter {
 }

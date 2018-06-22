@@ -1,6 +1,6 @@
-package main.java.com.company.entity;
+package com.company.entity;
 
-public class Clothes extends Tradeable {
+public class Clothes extends Goods {
     private int clothSize;
     private String color;
     private String brandName;
@@ -17,5 +17,7 @@ public class Clothes extends Tradeable {
 
         return clothSize;
     }
+
+
 
 }

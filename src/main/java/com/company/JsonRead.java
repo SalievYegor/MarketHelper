@@ -1,6 +1,4 @@
-package main.java.com.company;
-
-import main.java.com.company.entity.Tradeable;
+package com.company;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -19,7 +17,7 @@ public class JsonRead {
 
     public String jsonRead() {
 
-        Path filePath = Paths.get("src/main/java/resources/" + fileName + ".json");
+        Path filePath = Paths.get("src/main/resources/" + fileName + ".json");
         String jsonObject = "";
         List productList = new LinkedList();
         try {

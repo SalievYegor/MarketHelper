@@ -1,6 +1,6 @@
-package main.java.com.company;
+package com.company;
 
-import main.java.com.company.entity.Food;
+import com.company.entity.Food;
 
 public class Main {
 
