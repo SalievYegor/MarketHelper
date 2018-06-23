@@ -1,20 +1,17 @@
 package com.company.entity;
 
-import com.fasterxml.jackson.databind.ObjectMapper;
+
+import com.company.entity.Lists.FoodList;
 
 import java.util.Date;
-import java.util.LinkedList;
-import java.util.List;
 
-public class Food extends Goods {
+public class Food extends Goods{
 
-    private double foodWeight;
+    private double weight;
     private Date expirationDate;
-    private List<Goods> foodList = new LinkedList<Goods>();
-    private ObjectMapper mapper = new ObjectMapper();
 
-    public double getFoodWeight() {
-        return foodWeight;
+    public double getWeight() {
+        return weight;
     }
     public Date getExpirationDate() {
         return expirationDate;
@@ -22,13 +19,13 @@ public class Food extends Goods {
 
     @Override
     public void print() {
-        foodList = super.getGoodsList("food");
-        for (Goods food : foodList){
-            System.out.println(getProductName() + " " + getFoodWeight() +
-                    " " + getProductPrice() + " " + getExpirationDate() +
-                    " " + getDeliveryDate());
-
+        FoodList fl = new FoodList();
+        for (Food food : fl.getFoodList()){
+            System.out.println("Food name: " + food.getName() + "\n" + "price: " +
+            food.getPrice() + " \n"  + "weight: " +  food.getWeight() + "\n" +
+            "delivery date: " + food.getDeliveryDate() + "\n" + "expiration date: " + food.getExpirationDate());
         }
     }
 }
+
 

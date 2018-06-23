@@ -17,9 +17,8 @@ public class JsonRead {
 
     public String jsonRead() {
 
-        Path filePath = Paths.get("src/main/resources/" + fileName + ".json");
+        Path filePath = Paths.get("src/resources/" + fileName + ".json");
         String jsonObject = "";
-        List productList = new LinkedList();
         try {
             jsonObject = new String(Files.readAllBytes(filePath));
         } catch (IOException e) {

@@ -1,6 +1,6 @@
 package com.company.entity;
 
-public class Clothes extends Goods {
+public class Clothes {
     private int clothSize;
     private String color;
     private String brandName;
@@ -19,8 +19,7 @@ public class Clothes extends Goods {
     }
 
 
-    @Override
     public void print() {
-        
+
     }
 }
