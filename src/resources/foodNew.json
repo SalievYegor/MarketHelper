@@ -1,0 +1,127 @@
+[ {
+  "name" : "cheese",
+  "price" : 180.0,
+  "deliveryDate" : "15.06.2018",
+  "country" : "Ukraine",
+  "weight" : 3000.0,
+  "expirationDate" : "30.06.2018"
+}, {
+  "name" : "apple",
+  "price" : 30.0,
+  "deliveryDate" : "11.06.2018",
+  "country" : "Turkey",
+  "weight" : 50000.0,
+  "expirationDate" : "15.07.2018"
+}, {
+  "name" : "pork",
+  "price" : 130.0,
+  "deliveryDate" : "11.06.2018",
+  "country" : "Poland",
+  "weight" : 22000.0,
+  "expirationDate" : "20.06.2018"
+}, {
+  "name" : "beef",
+  "price" : 140.0,
+  "deliveryDate" : "05.06.2018",
+  "country" : "Ukraine",
+  "weight" : 25000.0,
+  "expirationDate" : "15.06.2018"
+}, {
+  "name" : "chicken",
+  "price" : 60.0,
+  "deliveryDate" : "07.06.2018",
+  "country" : "Ukraine",
+  "weight" : 35000.0,
+  "expirationDate" : "19.06.2018"
+}, {
+  "name" : "peach",
+  "price" : 33.0,
+  "deliveryDate" : "11.06.2018",
+  "country" : "Ukraine",
+  "weight" : 7000.0,
+  "expirationDate" : "26.06.2018"
+}, {
+  "name" : "onion",
+  "price" : 9.5,
+  "deliveryDate" : "11.06.2018",
+  "country" : "Ukraine",
+  "weight" : 40000.0,
+  "expirationDate" : "15.10.2018"
+}, {
+  "name" : "potato",
+  "price" : 13.8,
+  "deliveryDate" : "19.06.2018",
+  "country" : "Ukraine",
+  "weight" : 85000.0,
+  "expirationDate" : "15.11.2018"
+}, {
+  "name" : "cabbage",
+  "price" : 23.0,
+  "deliveryDate" : "11.06.2018",
+  "country" : "Russia",
+  "weight" : 30000.0,
+  "expirationDate" : "05.11.2018"
+}, {
+  "name" : "cherry",
+  "price" : 25.0,
+  "deliveryDate" : "03.06.2018",
+  "country" : "Moldova",
+  "weight" : 6000.0,
+  "expirationDate" : "15.06.2018"
+}, {
+  "name" : "tomato",
+  "price" : 24.0,
+  "deliveryDate" : "13.06.2018",
+  "country" : "Turkey",
+  "weight" : 9000.0,
+  "expirationDate" : "30.06.2018"
+}, {
+  "name" : "bread",
+  "price" : 13.5,
+  "deliveryDate" : "10.06.2018",
+  "country" : "Ukraine",
+  "weight" : 9300.0,
+  "expirationDate" : "16.06.2018"
+}, {
+  "name" : "tea",
+  "price" : 61.0,
+  "deliveryDate" : "02.06.2018",
+  "country" : "UK",
+  "weight" : 2300.0,
+  "expirationDate" : "14.03.2020"
+}, {
+  "name" : "sausages",
+  "price" : 95.0,
+  "deliveryDate" : "09.06.2018",
+  "country" : "Russia",
+  "weight" : 4300.0,
+  "expirationDate" : "30.06.2018"
+}, {
+  "name" : "milk",
+  "price" : 21.0,
+  "deliveryDate" : "11.06.2018",
+  "country" : "Ukraine",
+  "weight" : 3700.0,
+  "expirationDate" : "28.06.2018"
+}, {
+  "name" : "spaghetti",
+  "price" : 33.0,
+  "deliveryDate" : "11.06.2018",
+  "country" : "Italy",
+  "weight" : 19000.0,
+  "expirationDate" : "11.12.2018"
+}, {
+  "name" : "chocolate",
+  "price" : 63.0,
+  "deliveryDate" : "11.06.2018",
+  "country" : "France",
+  "weight" : 2000.0,
+  "expirationDate" : "15.08.2018"
+}, {
+  "name" : "garlic",
+  "price" : 71.0,
+  "deliveryDate" : "03.02.2018",
+  "country" : "Ukraine",
+  "weight" : 2100.0,
+  "expirationDate" : "03.08.2018"
+} ]

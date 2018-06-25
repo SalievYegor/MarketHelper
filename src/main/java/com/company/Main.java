@@ -1,13 +1,18 @@
 package com.company;
 
-import com.company.entity.Food;
-import com.company.entity.Goods;
-import com.company.entity.Lists.FoodList;
+import com.company.entity.Lists.*;
 
 public class Main {
 
-    public static void main(String[] args) {
-        Goods food = new Food();
-        food.print();
+    public static void main(String[] args) throws Exception {
+
+        ToJsonFile tjf = new ToJsonFile();
+        ListOfGoods fl = new FoodList();
+        ListOfGoods cl = new ClothesList();
+        ListOfGoods kl = new KnivesList();
+        tjf.writeToFile(fl.getList(), "foodNew");
+        tjf.writeToFile(cl.getList(), "clothNew");
+        tjf.writeToFile(kl.getList(), "knifeNew");
+
     }
 }

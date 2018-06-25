@@ -1,0 +1,89 @@
+[ {
+  "name" : "SwissClassic",
+  "price" : 1627.0,
+  "deliveryDate" : "03.02.2018",
+  "country" : "Swiss",
+  "weight" : 104.0,
+  "length" : 22.0,
+  "manufacturer" : "Victorinox"
+}, {
+  "name" : "Coda",
+  "price" : 700.0,
+  "deliveryDate" : "03.02.2018",
+  "country" : "Germany",
+  "weight" : 98.5,
+  "length" : 20.0,
+  "manufacturer" : "BergHOFF"
+}, {
+  "name" : "Ron",
+  "price" : 940.0,
+  "deliveryDate" : "03.02.2018",
+  "country" : "Germany",
+  "weight" : 121.0,
+  "length" : 18.0,
+  "manufacturer" : "BergHOFF"
+}, {
+  "name" : "Orion",
+  "price" : 860.0,
+  "deliveryDate" : "03.02.2018",
+  "country" : "Germany",
+  "weight" : 85.0,
+  "length" : 20.0,
+  "manufacturer" : "BergHOFF"
+}, {
+  "name" : "Fibrox",
+  "price" : 1300.0,
+  "deliveryDate" : "03.02.2018",
+  "country" : "Swiss",
+  "weight" : 107.0,
+  "length" : 16.0,
+  "manufacturer" : "Victorinox"
+}, {
+  "name" : "Standard",
+  "price" : 920.0,
+  "deliveryDate" : "03.02.2018",
+  "country" : "Swiss",
+  "weight" : 110.0,
+  "length" : 22.0,
+  "manufacturer" : "Victorinox"
+}, {
+  "name" : "Swibo",
+  "price" : 1300.0,
+  "deliveryDate" : "03.02.2018",
+  "country" : "Swiss",
+  "weight" : 97.0,
+  "length" : 18.0,
+  "manufacturer" : "Victorinox"
+}, {
+  "name" : "Modern",
+  "price" : 870.0,
+  "deliveryDate" : "03.02.2018",
+  "country" : "Swiss",
+  "weight" : 93.5,
+  "length" : 17.0,
+  "manufacturer" : "Victorinox"
+}, {
+  "name" : "Grand Prix",
+  "price" : 2130.0,
+  "deliveryDate" : "03.02.2018",
+  "country" : "Germany",
+  "weight" : 88.0,
+  "length" : 20.0,
+  "manufacturer" : "Wuesthof"
+}, {
+  "name" : "Ikon",
+  "price" : 2700.0,
+  "deliveryDate" : "03.02.2018",
+  "country" : "Germany",
+  "weight" : 95.0,
+  "length" : 16.0,
+  "manufacturer" : "Wuesthof"
+}, {
+  "name" : "Classic",
+  "price" : 2450.0,
+  "deliveryDate" : "03.02.2018",
+  "country" : "Germany",
+  "weight" : 80.0,
+  "length" : 16.0,
+  "manufacturer" : "Wuesthof"
+} ]

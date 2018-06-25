@@ -1,0 +1,134 @@
+[ {
+  "name" : "shirt",
+  "price" : 160.0,
+  "deliveryDate" : "03.02.2018",
+  "country" : "USA",
+  "weight" : 70.0,
+  "size" : "M"
+}, {
+  "name" : "jacket",
+  "price" : 1400.0,
+  "deliveryDate" : "11.06.2018",
+  "country" : "Italy",
+  "weight" : 430.0,
+  "size" : "XL"
+}, {
+  "name" : "cloak",
+  "price" : 233.0,
+  "deliveryDate" : "11.05.2018",
+  "country" : "France",
+  "weight" : 60.0,
+  "size" : "S"
+}, {
+  "name" : "hat",
+  "price" : 95.0,
+  "deliveryDate" : "03.02.2018",
+  "country" : "Ukraine",
+  "weight" : 40.0,
+  "size" : "M"
+}, {
+  "name" : "shirt",
+  "price" : 160.0,
+  "deliveryDate" : "03.02.2018",
+  "country" : "USA",
+  "weight" : 70.0,
+  "size" : "M"
+}, {
+  "name" : "T-Shirt",
+  "price" : 99.0,
+  "deliveryDate" : "12.04.2018",
+  "country" : "Turkey",
+  "weight" : 40.0,
+  "size" : "XL"
+}, {
+  "name" : "jeans",
+  "price" : 322.0,
+  "deliveryDate" : "07.02.2018",
+  "country" : "USA",
+  "weight" : 150.0,
+  "size" : "S"
+}, {
+  "name" : "shorts",
+  "price" : 160.0,
+  "deliveryDate" : "03.02.2018",
+  "country" : "French",
+  "weight" : 70.0,
+  "size" : "L"
+}, {
+  "name" : "dress",
+  "price" : 540.0,
+  "deliveryDate" : "25.09.2018",
+  "country" : "Italy",
+  "weight" : 140.0,
+  "size" : "XL"
+}, {
+  "name" : "pants",
+  "price" : 40.0,
+  "deliveryDate" : "13.04.2018",
+  "country" : "Ukraine",
+  "weight" : 120.0,
+  "size" : "L"
+}, {
+  "name" : "coat",
+  "price" : 1350.0,
+  "deliveryDate" : "24.06.2018",
+  "country" : "Sweden",
+  "weight" : 70.0,
+  "size" : "XXL"
+}, {
+  "name" : "glasses",
+  "price" : 2100.0,
+  "deliveryDate" : "19.02.2018",
+  "country" : "Norway",
+  "weight" : 40.0,
+  "size" : "S"
+}, {
+  "name" : "scarf",
+  "price" : 120.0,
+  "deliveryDate" : "13.03.2018",
+  "country" : "Italy",
+  "weight" : 50.0,
+  "size" : "XL"
+}, {
+  "name" : "raincoat",
+  "price" : 405.0,
+  "deliveryDate" : "01.02.2018",
+  "country" : "UK",
+  "weight" : 130.0,
+  "size" : "M"
+}, {
+  "name" : "gloves",
+  "price" : 210.0,
+  "deliveryDate" : "15.05.2018",
+  "country" : "French",
+  "weight" : 60.0,
+  "size" : "L"
+}, {
+  "name" : "pullover",
+  "price" : 240.0,
+  "deliveryDate" : "22.06.2018",
+  "country" : "Italy",
+  "weight" : 45.0,
+  "size" : "S"
+}, {
+  "name" : "socks",
+  "price" : 30.0,
+  "deliveryDate" : "29.04.2018",
+  "country" : "Ukraine",
+  "weight" : 15.0,
+  "size" : "S"
+}, {
+  "name" : "trousers",
+  "price" : 160.0,
+  "deliveryDate" : "12.01.2018",
+  "country" : "USA",
+  "weight" : 40.0,
+  "size" : "XL"
+}, {
+  "name" : "polo",
+  "price" : 180.0,
+  "deliveryDate" : "06.05.2018",
+  "country" : "Turkey",
+  "weight" : 65.0,
+  "size" : "XXL"
+} ]

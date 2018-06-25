@@ -4,8 +4,6 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.LinkedList;
-import java.util.List;
 
 public class JsonRead {
 
@@ -15,9 +13,9 @@ public class JsonRead {
         this.fileName = fileName;
     }
 
-    public String jsonRead() {
+    public String jsonRead() throws IOException {
 
-        Path filePath = Paths.get("src/resources/" + fileName + ".json");
+        Path filePath = Paths.get("src/resources/goods.json");
         String jsonObject = "";
         try {
             jsonObject = new String(Files.readAllBytes(filePath));
@@ -26,4 +24,6 @@ public class JsonRead {
         }
         return jsonObject;
     }
+
+
 }

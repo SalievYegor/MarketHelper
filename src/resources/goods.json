@@ -1,0 +1,446 @@
+[
+  {
+    "type": "food",
+    "name": "cheese",
+    "price": 180,
+    "weight": 3000,
+    "country": "Ukraine",
+    "deliveryDate": "15.06.2018",
+    "expirationDate": "30.06.2018"
+  },
+  {
+    "type": "clothes",
+    "name": "shirt",
+    "price": 160.0,
+    "weight": 70.0,
+    "country": "USA",
+    "deliveryDate": "03.02.2018",
+    "size": "M"
+  },
+  {
+    "type": "food",
+    "name": "apple",
+    "price": 30,
+    "weight": 50000,
+    "country": "Turkey",
+    "deliveryDate": "11.06.2018",
+    "expirationDate": "15.07.2018"
+  },
+  {
+    "type": "clothes",
+    "name": "jacket",
+    "price": 1400,
+    "weight": 430,
+    "country": "Italy",
+    "deliveryDate": "11.06.2018",
+    "size": "XL"
+
+  },
+  {
+    "type": "food",
+    "name": "pork",
+    "price": 130,
+    "weight": 22000,
+    "country": "Poland",
+    "deliveryDate": "11.06.2018",
+    "expirationDate": "20.06.2018"
+  },
+  {
+    "type": "food",
+    "name": "beef",
+    "price": 140,
+    "weight": 25000,
+    "country": "Ukraine",
+    "deliveryDate": "5.06.2018",
+    "expirationDate": "15.06.2018"
+  },
+  {
+    "type": "food",
+    "name": "chicken",
+    "price": 60,
+    "weight": 35000,
+    "country": "Ukraine",
+    "deliveryDate": "7.06.2018",
+    "expirationDate": "19.06.2018"
+  },
+  {
+    "type": "food",
+    "name": "peach",
+    "price": 33,
+    "weight": 7000,
+    "country": "Ukraine",
+    "deliveryDate": "11.06.2018",
+    "expirationDate": "26.06.2018"
+  },
+  {
+    "type": "food",
+    "name": "onion",
+    "price": 9.5,
+    "weight": 40000,
+    "country": "Ukraine",
+    "deliveryDate": "11.06.2018",
+    "expirationDate": "15.10.2018"
+  },
+  {
+    "type": "food",
+    "name": "potato",
+    "price": 13.8,
+    "weight": 85000,
+    "country": "Ukraine",
+    "deliveryDate": "19.06.2018",
+    "expirationDate": "15.11.2018"
+  },
+  {
+    "type": "food",
+    "name": "cabbage",
+    "price": 23,
+    "weight": 30000,
+    "country": "Russia",
+    "deliveryDate": "11.06.2018",
+    "expirationDate": "5.11.2018"
+  },
+  {
+    "type": "food",
+    "name": "cherry",
+    "price": 25,
+    "weight": 6000,
+    "country": "Moldova",
+    "deliveryDate": "3.06.2018",
+    "expirationDate": "15.06.2018"
+  },
+  {
+    "type": "food",
+    "name": "tomato",
+    "price": 24,
+    "weight": 9000,
+    "country": "Turkey",
+    "deliveryDate": "13.06.2018",
+    "expirationDate": "30.06.2018"
+  },
+  {
+    "type": "food",
+    "name": "bread",
+    "price": 13.5,
+    "weight": 9300,
+    "country": "Ukraine",
+    "deliveryDate": "10.06.2018",
+    "expirationDate": "16.06.2018"
+  },
+  {
+    "type": "food",
+    "name": "tea",
+    "price": 61,
+    "weight": 2300,
+    "country": "UK",
+    "deliveryDate": "2.06.2018",
+    "expirationDate": "14.3.2020"
+  },
+  {
+    "type": "food",
+    "name": "sausages",
+    "price": 95,
+    "weight": 4300,
+    "country": "Russia",
+    "deliveryDate": "9.06.2018",
+    "expirationDate": "30.06.2018"
+  },
+  {
+    "type": "food",
+    "name": "milk",
+    "price": 21,
+    "weight": 3700,
+    "country": "Ukraine",
+    "deliveryDate": "11.06.2018",
+    "expirationDate": "28.06.2018"
+  },
+  {
+    "type": "food",
+    "name": "spaghetti",
+    "price": 33,
+    "weight": 19000,
+    "country": "Italy",
+    "deliveryDate": "11.06.2018",
+    "expirationDate": "11.12.2018"
+  },
+  {
+    "type": "food",
+    "name": "chocolate",
+    "price": 63,
+    "weight": 2000,
+    "country": "France",
+    "deliveryDate": "11.06.2018",
+    "expirationDate": "15.08.2018"
+  },
+  {
+    "type": "food",
+    "name": "garlic",
+    "price": 71,
+    "weight": 2100,
+    "country": "Ukraine",
+    "deliveryDate": "03.02.2018",
+    "expirationDate": "03.08.2018"
+  },
+  {
+    "type": "clothes",
+    "name": "cloak",
+    "price": 233,
+    "weight": 60,
+    "country": "France",
+    "deliveryDate": "11.5.2018",
+    "size": "S"
+  },
+  {
+    "type": "clothes",
+    "name": "hat",
+    "price": 95,
+    "weight": 40,
+    "country": "Ukraine",
+    "deliveryDate": "03.02.2018",
+    "size": "M"
+  },
+  {
+    "type": "clothes",
+    "name": "shirt",
+    "price": 160.0,
+    "weight": 70.0,
+    "country": "USA",
+    "deliveryDate": "03.02.2018",
+    "size": "M"
+  },
+  {
+    "type": "clothes",
+    "name": "T-Shirt",
+    "price": 99,
+    "weight": 40,
+    "country": "Turkey",
+    "deliveryDate": "12.04.2018",
+    "size": "XL"
+  },
+  {
+    "type": "clothes",
+    "name": "jeans",
+    "price": 322,
+    "weight": 150,
+    "country": "USA",
+    "deliveryDate": "07.02.2018",
+    "size": "S"
+  },
+  {
+    "type": "clothes",
+    "name": "shorts",
+    "price": 160.0,
+    "weight": 70.0,
+    "country": "French",
+    "deliveryDate": "03.02.2018",
+    "size": "L"
+  },
+  {
+    "type": "clothes",
+    "name": "dress",
+    "price": 540,
+    "weight": 140,
+    "country": "Italy",
+    "deliveryDate": "25.9.2018",
+    "size": "XL"
+  },
+  {
+    "type": "clothes",
+    "name": "pants",
+    "price": 40,
+    "weight": 120,
+    "country": "Ukraine",
+    "deliveryDate": "13.04.2018",
+    "size": "L"
+  },
+  {
+    "type": "clothes",
+    "name": "coat",
+    "price": 1350,
+    "weight": 70.0,
+    "country": "Sweden",
+    "deliveryDate": "24.06.2018",
+    "size": "XXL"
+  },
+  {
+    "type": "clothes",
+    "name": "glasses",
+    "price": 2100,
+    "weight": 40,
+    "country": "Norway",
+    "deliveryDate": "19.02.2018",
+    "size": "S"
+  },
+  {
+    "type": "clothes",
+    "name": "scarf",
+    "price": 120,
+    "weight": 50,
+    "country": "Italy",
+    "deliveryDate": "13.03.2018",
+    "size": "XL"
+  },
+  {
+    "type": "clothes",
+    "name": "raincoat",
+    "price": 405,
+    "weight": 130,
+    "country": "UK",
+    "deliveryDate": "01.02.2018",
+    "size": "M"
+  },
+  {
+    "type": "clothes",
+    "name": "gloves",
+    "price": 210,
+    "weight": 60,
+    "country": "French",
+    "deliveryDate": "15.05.2018",
+    "size": "L"
+  },
+  {
+    "type": "clothes",
+    "name": "pullover",
+    "price": 240,
+    "weight": 45,
+    "country": "Italy",
+    "deliveryDate": "22.06.2018",
+    "size": "S"
+  },
+  {
+    "type": "clothes",
+    "name": "socks",
+    "price": 30,
+    "weight": 15,
+    "country": "Ukraine",
+    "deliveryDate": "29.04.2018",
+    "size": "S"
+  },
+  {
+    "type": "clothes",
+    "name": "trousers",
+    "price": 160.0,
+    "weight": 40,
+    "country": "USA",
+    "deliveryDate": "12.01.2018",
+    "size": "XL"
+  },
+  {
+    "type": "clothes",
+    "name": "polo",
+    "price": 180,
+    "weight": 65,
+    "country": "Turkey",
+    "deliveryDate": "06.05.2018",
+    "size": "XXL"
+  },
+  {
+    "type": "knife",
+    "name": "SwissClassic",
+    "manufacturer" : "Victorinox",
+    "length" : 22,
+    "price": 1627,
+    "weight": 104,
+    "country": "Swiss",
+    "deliveryDate": "03.02.2018"
+  },
+  {
+    "type": "knife",
+    "name": "Coda",
+    "manufacturer" : "BergHOFF",
+    "length" : 20,
+    "price": 700,
+    "weight": 98.5,
+    "country": "Germany",
+    "deliveryDate": "03.02.2018"
+  },
+  {
+    "type": "knife",
+    "name": "Ron",
+    "manufacturer" : "BergHOFF",
+    "length" : 18,
+    "price": 940,
+    "weight": 121,
+    "country": "Germany",
+    "deliveryDate": "03.02.2018"
+  },
+  {
+    "type": "knife",
+    "name": "Orion",
+    "manufacturer" : "BergHOFF",
+    "length" : 20,
+    "price": 860,
+    "weight": 85,
+    "country": "Germany",
+    "deliveryDate": "03.02.2018"
+  },
+  {
+    "type": "knife",
+    "name": "Fibrox",
+    "manufacturer" : "Victorinox",
+    "length" : 16,
+    "price": 1300,
+    "weight": 107,
+    "country": "Swiss",
+    "deliveryDate": "03.02.2018"
+  },
+  {
+    "type": "knife",
+    "name": "Standard",
+    "manufacturer" : "Victorinox",
+    "length" : 22,
+    "price": 920,
+    "weight": 110,
+    "country": "Swiss",
+    "deliveryDate": "03.02.2018"
+  },
+  {
+    "type": "knife",
+    "name": "Swibo",
+    "manufacturer" : "Victorinox",
+    "length" : 18,
+    "price": 1300,
+    "weight": 97,
+    "country": "Swiss",
+    "deliveryDate": "03.02.2018"
+  },
+  {
+    "type": "knife",
+    "name": "Modern",
+    "manufacturer" : "Victorinox",
+    "length" : 17,
+    "price": 870,
+    "weight": 93.5,
+    "country": "Swiss",
+    "deliveryDate": "03.02.2018"
+  },
+  {
+    "type": "knife",
+    "name": "Grand Prix",
+    "manufacturer": "Wuesthof",
+    "length": 20,
+    "price": 2130,
+    "weight": 88,
+    "country": "Germany",
+    "deliveryDate": "03.02.2018"
+  },
+  {
+    "type": "knife",
+    "name": "Ikon",
+    "manufacturer" : "Wuesthof",
+    "length" : 16,
+    "price": 2700,
+    "weight": 95,
+    "country": "Germany",
+    "deliveryDate": "03.02.2018"
+  },
+  {
+    "type": "knife",
+    "name": "Classic",
+    "manufacturer" : "Wuesthof",
+    "length" : 16,
+    "price": 2450,
+    "weight": 80,
+    "country": "Germany",
+    "deliveryDate": "03.02.2018"
+  }
+]

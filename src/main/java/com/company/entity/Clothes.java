@@ -1,25 +1,14 @@
 package com.company.entity;
 
-public class Clothes {
-    private int clothSize;
-    private String color;
-    private String brandName;
+public class Clothes extends Goods {
+    private String size;
 
-    public String getColor() {
-        return color;
+    public String getSize() {
+        return size;
     }
 
-    public String getBrandName() {
-        return brandName;
-    }
-
-    public int getClothSize() {
-
-        return clothSize;
-    }
-
-
-    public void print() {
-
+    public void setSize(String size) {
+        this.size = size;
     }
 }
+
