@@ -14,7 +14,7 @@ import java.util.Date;
         @JsonSubTypes.Type(value = Clothes.class, name = "clothes"),
         @JsonSubTypes.Type(value = Knife.class, name = "knife")
 })
-public abstract class Goods {
+public abstract class Goods implements IGoods {
 
     private String name;
     private double price;
@@ -61,4 +61,5 @@ public abstract class Goods {
     public void setWeight(double weight) {
         this.weight = weight;
     }
+
 }

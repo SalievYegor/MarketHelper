@@ -12,7 +12,7 @@ import java.util.List;
 
 public class ToJsonFile {
 
-    public void writeToFile(List<? extends Goods> list,String newFileName ) throws Exception {
+    public void writeToFile(List list,String newFileName ) throws Exception {
         ObjectMapper mapper = new ObjectMapper();
         SimpleDateFormat sdf = new SimpleDateFormat("dd.MM.yyyy");
         mapper.setDateFormat(sdf);

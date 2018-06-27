@@ -23,4 +23,5 @@ public class Knife extends Kitchen {
         this.manufacturer = manufacturer;
 
     }
+
 }

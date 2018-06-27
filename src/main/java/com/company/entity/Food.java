@@ -1,9 +1,8 @@
 package com.company.entity;
 
-
-
 import java.util.Date;
-public class Food extends Goods{
+
+public class Food extends Goods implements IFood {
 
     private Date expirationDate;
 
@@ -14,7 +13,6 @@ public class Food extends Goods{
     public Date getExpirationDate() {
         return expirationDate;
     }
-
 }
 
 

@@ -4,7 +4,7 @@ import com.company.entity.Clothes;
 
 import java.util.List;
 
-public class ClothesList implements ListOfGoods {
+public class ClothesList {
 
     public List<Clothes> getList() throws Exception {
         GoodsList gl = new GoodsList();
