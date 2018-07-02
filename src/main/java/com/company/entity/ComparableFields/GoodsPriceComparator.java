@@ -6,6 +6,7 @@ import java.util.Comparator;
 
 public class GoodsPriceComparator implements Comparator<Goods> {
 
+    @Override
     public int compare(Goods a, Goods b) {
         return Double.compare(a.getPrice(), b.getPrice());
     }

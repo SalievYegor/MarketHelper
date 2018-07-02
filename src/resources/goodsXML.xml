@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Food>
+    <Product>
+        <name>bread</name>
+        <price>8.8</price>
+        <country>ukraine</country>
+        <deliveryDate>24.06.2018</deliveryDate>
+        <weight>0.4</weight>
+        <expirationDate>28.06.2018</expirationDate>
+    </Product>
+    <Product>
+        <name>milk</name>
+        <price>19.75</price>
+        <country>ukraine</country>
+        <deliveryDate>24.06.2018</deliveryDate>
+        <weight>0.87</weight>
+        <expirationDate>28.06.2018</expirationDate>
+    </Product>
+    <Product>
+        <name>cheese</name>
+        <price>44.5</price>
+        <country>belarus</country>
+        <deliveryDate>24.06.2018</deliveryDate>
+        <weight>0.25</weight>
+        <expirationDate>28.06.2018</expirationDate>
+    </Product>
+    <Product>
+        <name>meat</name>
+        <price>104</price>
+        <country>poland</country>
+        <deliveryDate>24.06.2018</deliveryDate>
+        <weight>1</weight>
+        <expirationDate>28.06.2018</expirationDate>
+    </Product>
+</Food>

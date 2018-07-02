@@ -2,16 +2,14 @@ package com.company;
 
 import com.company.Filters.FoodFilter;
 import com.company.Filters.IFilers.IFoodFilter;
+import com.company.entity.Clothes;
 import com.company.entity.ComparableFields.GoodsPriceComparator;
 import com.company.entity.Goods;
 import com.company.entity.IFood;
 import com.company.entity.Lists.*;
 import com.company.entity.Food;
 
-import java.util.ArrayList;
-import java.util.FormatFlagsConversionMismatchException;
-import java.util.LinkedList;
-import java.util.List;
+import java.util.*;
 
 public class Main {
 
@@ -24,20 +22,26 @@ public class Main {
 //        tjf.writeToFile(fl.getList(), "foodNew");
 //        tjf.writeToFile(cl.getList(), "clothNew");
 //        tjf.writeToFile(kl.getList(), "knifeNew");
+//
+//        GoodsPriceComparator gpc = new GoodsPriceComparator();
+//        FoodList fl = new FoodList();
+//        List<Food> list = new ArrayList<>();
+//        list.addAll(fl.getJSONList());
+//
+//        for (Food food : list) {
+//            System.out.println(food.getPrice() + " before sorting");
+//        }
+//        list.sort(gpc);
+//        for (Food food2 : list){
+//            System.out.println(food2.getPrice() + " after sorting");
+//        }
+        ListOfGoods foodList = new ClothesList();
+        foodList.getXMLList();
+        List<Clothes> clist = new LinkedList<>();
+        clist.addAll((Collection<? extends Clothes>) foodList.getXMLList());
 
-        GoodsPriceComparator gpc = new GoodsPriceComparator();
-        FoodList fl = new FoodList();
-        List<Food> list = new ArrayList<>();
-        list.addAll(fl.getList());
-
-        for (Food food : list) {
-            System.out.println(food.getPrice() + " before sorting");
+        for (Clothes f : clist){
+            System.out.println(f);
         }
-        list.sort(gpc);
-        for (Food food2 : list){
-            System.out.println(food2.getPrice() + " after sorting");
-        }
-
-
     }
 }

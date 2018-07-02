@@ -13,7 +13,7 @@ public class JsonRead {
         this.fileName = fileName;
     }
 
-    public String jsonRead() throws IOException {
+    public String jsonRead() {
 
         Path filePath = Paths.get("src/resources/goods.json");
         String jsonObject = "";

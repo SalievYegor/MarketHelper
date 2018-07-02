@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Cloth>
+    <Product>
+        <name>cloak</name>
+        <price>233</price>
+        <country>France</country>
+        <deliveryDate>11.05.2018</deliveryDate>
+        <size>S</size>
+        <weight>60.0</weight>
+    </Product>
+    <Product>
+        <name>T-Shirt</name>
+        <price>99.0</price>
+        <country>Turkey</country>
+        <deliveryDate>12.04.2018</deliveryDate>
+        <size>XL</size>
+        <weight>40.0</weight>
+    </Product>
+    <Product>
+        <name>jeans</name>
+        <price>322.0</price>
+        <country>USA</country>
+        <deliveryDate>07.02.2018</deliveryDate>
+        <size>S</size>
+        <weight>150.0</weight>
+    </Product>
+    <Product>
+        <name>gloves</name>
+        <price>210.0</price>
+        <country>French</country>
+        <deliveryDate>15.05.2018</deliveryDate>
+        <size>L</size>
+        <weight>60.0</weight>
+    </Product>
+
+</Cloth>

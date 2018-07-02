@@ -51,16 +51,16 @@ public class GoodsList  {
         }
         return sortedList;
     }
-    public void sortedByType() throws IOException {
-        for (Goods goods : this.getGoods() ){
-            if (goods.getType().equals("food")){
-                foodList.add((Food) goods);
-            } else if (goods.getType().equals("clothes")){
-                clothesList.add((Clothes) goods);
-            } else if (goods.getType().equals("knife")){
-                kniveslist.add((Knife) goods);
-            }
-        }
+//    public void sortedByType() throws IOException {
+//        for (Goods goods : this.getGoods() ){
+//            if (goods.getType().equals("food")){
+//                foodList.add((Food) goods);
+//            } else if (goods.getType().equals("clothes")){
+//                clothesList.add((Clothes) goods);
+//            } else if (goods.getType().equals("knife")){
+//                kniveslist.add((Knife) goods);
+//            }
+//        }
 
     }
 //    public List getSortingByType(Goods productType) throws Exception{
@@ -75,4 +75,4 @@ public class GoodsList  {
 //        }
 //        return sortedList;
 //    }
-}
+

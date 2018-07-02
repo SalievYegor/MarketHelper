@@ -54,6 +54,17 @@ public abstract class Goods implements IGoods {
         this.deliveryDate = deliveryDate;
     }
 
+    @Override
+    public String toString() {
+        return "Goods{" +
+                "name='" + name + '\'' +
+                ", price=" + price +
+                ", deliveryDate=" + deliveryDate +
+                ", country='" + country + '\'' +
+                ", weight=" + weight +
+                '}';
+    }
+
     public void setCountry(String country) {
         this.country = country;
     }

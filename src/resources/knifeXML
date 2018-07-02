@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Knife>
+    <Product>
+        <name>SwissClassic</name>
+        <price>1627.0</price>
+        <country>Swiss</country>
+        <deliveryDate>24.06.2018</deliveryDate>
+        <weight>104.0</weight>
+        <length>22.0</length>
+        <manufacturer>Victorinox</manufacturer>
+    </Product>
+    <Product>
+        <name>Coda</name>
+        <price>700.0</price>
+        <country>Germany</country>
+        <deliveryDate>03.02.2018</deliveryDate>
+        <weight>98.5</weight>
+        <length>20.0</length>
+        <manufacturer>BergHOFF</manufacturer>
+    </Product>
+    <Product>
+        <name>Ron</name>
+        <price>940.0</price>
+        <country>Germany</country>
+        <deliveryDate>03.02.2018</deliveryDate>
+        <weight>121.0</weight>
+        <length>18.0</length>
+        <manufacturer>BergHOFF</manufacturer>
+    </Product>
+    <Product>
+        <name>Grand Prix</name>
+        <price>2130.0</price>
+        <country>Germany</country>
+        <deliveryDate>03.02.2018</deliveryDate>
+        <weight>88.0</weight>
+        <length>22.0</length>
+        <manufacturer>Wuesthof</manufacturer>
+    </Product>
+</Knife>

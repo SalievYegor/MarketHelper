@@ -66,9 +66,9 @@
   "name" : "Grand Prix",
   "price" : 2130.0,
   "deliveryDate" : "03.02.2018",
-  "country" : "Germany",
+    "country" : "Germany",
   "weight" : 88.0,
-  "length" : 20.0,
+  "length" : 22.0,
   "manufacturer" : "Wuesthof"
 }, {
   "name" : "Ikon",

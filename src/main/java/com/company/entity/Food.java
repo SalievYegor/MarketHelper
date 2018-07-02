@@ -13,6 +13,16 @@ public class Food extends Goods implements IFood {
     public Date getExpirationDate() {
         return expirationDate;
     }
+
+    @Override
+    public String toString() {
+        return "name: " + getName() + "\n" +
+                "price: " + getPrice() + "\n" +
+                "weight: " + getWeight() + "\n" +
+                "country: " + getCountry() + "\n" +
+                "deliveryDate: " + getDeliveryDate() + "\n" +
+                "expirationDate: " + expirationDate;
+    }
 }
 
 

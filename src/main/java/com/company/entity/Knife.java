@@ -24,4 +24,15 @@ public class Knife extends Kitchen {
 
     }
 
+    @Override
+    public String toString() {
+        return "Knife{" +
+                "length=" + length +
+                ", manufacturer='" + manufacturer + '\'' +
+                "name: " + getName() + "\n" +
+                "price: " + getPrice() + "\n" +
+                "weight: " + getWeight() + "\n" +
+                "country: " + getCountry() + "\n" +
+                "deliveryDate: " + getDeliveryDate() + "\n" ;
+    }
 }
