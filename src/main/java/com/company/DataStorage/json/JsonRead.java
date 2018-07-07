@@ -1,4 +1,4 @@
-package com.company;
+package com.company.DataStorage.json;
 
 import java.io.IOException;
 import java.nio.file.Files;

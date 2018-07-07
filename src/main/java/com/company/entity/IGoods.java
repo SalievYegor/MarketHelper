@@ -1,5 +1,6 @@
 package com.company.entity;
 
+import java.time.LocalDate;
 import java.util.Date;
 
 public interface IGoods {
@@ -11,13 +12,13 @@ public interface IGoods {
 
     public double getPrice();
 
-    public Date getDeliveryDate();
+    public LocalDate getDeliveryDate();
 
     public void setName(String name);
 
     public void setPrice(double price);
 
-    public void setDeliveryDate(Date deliveryDate);
+    public void setDeliveryDate(LocalDate deliveryDate);
 
     public void setCountry(String country);
 

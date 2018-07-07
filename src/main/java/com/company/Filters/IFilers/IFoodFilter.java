@@ -1,7 +1,10 @@
 package com.company.Filters.IFilers;
 
+import com.company.entity.Food;
+
+import java.util.List;
+
 public interface IFoodFilter extends IShopFilter {
-//
-//    void filterByName(String nameProduct) throws Exception;
+    public List<Food> filterByDate();
 
 }

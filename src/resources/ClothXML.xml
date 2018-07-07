@@ -27,7 +27,7 @@
     <Product>
         <name>gloves</name>
         <price>210.0</price>
-        <country>French</country>
+        <country>France</country>
         <deliveryDate>15.05.2018</deliveryDate>
         <size>L</size>
         <weight>60.0</weight>

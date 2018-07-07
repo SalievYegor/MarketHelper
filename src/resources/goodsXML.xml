@@ -4,25 +4,25 @@
         <name>bread</name>
         <price>8.8</price>
         <country>ukraine</country>
-        <deliveryDate>24.06.2018</deliveryDate>
+        <deliveryDate>21.05.2018</deliveryDate>
         <weight>0.4</weight>
-        <expirationDate>28.06.2018</expirationDate>
+        <expirationDate>20.06.2018</expirationDate>
     </Product>
     <Product>
         <name>milk</name>
         <price>19.75</price>
         <country>ukraine</country>
-        <deliveryDate>24.06.2018</deliveryDate>
+        <deliveryDate>22.06.2018</deliveryDate>
         <weight>0.87</weight>
-        <expirationDate>28.06.2018</expirationDate>
+        <expirationDate>7.06.2018</expirationDate>
     </Product>
     <Product>
         <name>cheese</name>
         <price>44.5</price>
         <country>belarus</country>
-        <deliveryDate>24.06.2018</deliveryDate>
+        <deliveryDate>23.05.2018</deliveryDate>
         <weight>0.25</weight>
-        <expirationDate>28.06.2018</expirationDate>
+        <expirationDate>15.07.2018</expirationDate>
     </Product>
     <Product>
         <name>meat</name>
@@ -30,6 +30,22 @@
         <country>poland</country>
         <deliveryDate>24.06.2018</deliveryDate>
         <weight>1</weight>
-        <expirationDate>28.06.2018</expirationDate>
+        <expirationDate>7.06.2018</expirationDate>
+    </Product>
+    <Product>
+        <name>butter</name>
+        <price>44.5</price>
+        <country>belarus</country>
+        <deliveryDate>22.06.2018</deliveryDate>
+        <weight>0.25</weight>
+        <expirationDate>15.07.2018</expirationDate>
+    </Product>
+    <Product>
+        <name>fruits</name>
+        <price>104</price>
+        <country>poland</country>
+        <deliveryDate>24.06.2018</deliveryDate>
+        <weight>1</weight>
+        <expirationDate>10.07.2018</expirationDate>
     </Product>
 </Food>

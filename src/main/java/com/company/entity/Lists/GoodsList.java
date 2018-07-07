@@ -1,6 +1,6 @@
 package com.company.entity.Lists;
 
-import com.company.JsonRead;
+import com.company.DataStorage.json.JsonRead;
 import com.company.entity.Clothes;
 import com.company.entity.Goods;
 import com.company.entity.Knife;
